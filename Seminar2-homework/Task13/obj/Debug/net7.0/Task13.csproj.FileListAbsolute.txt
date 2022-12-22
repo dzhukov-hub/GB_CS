@@ -1,0 +1,15 @@
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\bin\Debug\net7.0\Task13.exe
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\bin\Debug\net7.0\Task13.deps.json
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\bin\Debug\net7.0\Task13.dll
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\bin\Debug\net7.0\Task13.pdb
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\Task13.dll
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\refint\Task13.dll
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\Task13.pdb
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task13\obj\Debug\net7.0\ref\Task13.dll

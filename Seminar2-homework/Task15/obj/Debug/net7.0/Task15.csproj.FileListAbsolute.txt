@@ -1,0 +1,15 @@
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\Task15.csproj.AssemblyReference.cache
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\Task15.AssemblyInfoInputs.cache
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\Task15.AssemblyInfo.cs
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\bin\Debug\net7.0\Task15.exe
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\bin\Debug\net7.0\Task15.deps.json
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\bin\Debug\net7.0\Task15.runtimeconfig.json
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\bin\Debug\net7.0\Task15.dll
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\bin\Debug\net7.0\Task15.pdb
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\Task15.dll
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\refint\Task15.dll
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\Task15.pdb
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\Task15.genruntimeconfig.cache
+C:\Users\dzhukov\Dropbox\Doc (sync)\UK\Education\Phyton\Lesson 3\Seminars\Seminar2-homework\Task15\obj\Debug\net7.0\ref\Task15.dll
