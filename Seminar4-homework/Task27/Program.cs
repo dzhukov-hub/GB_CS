@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 Clear();
-WriteLine ("Введите число:");
+WriteLine("Введите число:");
 int num = int.Parse(ReadLine());
 
 WriteLine($"Сумма числ в введенном числе: {GetSumDigits(num)}");
@@ -8,10 +8,11 @@ WriteLine($"Сумма числ в введенном числе: {GetSumDigits(
 int GetSumDigits(int num)
 {
     int res = 0;
-    while (num/10!=0)
-        {
-            res+=num%10;
-            num=num/10;
-        } 
-    return res+num;
+    while (num / 10 != 0)
+    {
+        res += num % 10;
+        num = num / 10;
+    }
+    return res + num;
 }
+
