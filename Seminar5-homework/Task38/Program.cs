@@ -41,7 +41,3 @@ void PrintArr(double[] Arr)
     Write($"{res}".Trim(','));
     Write("]");
 }
-
-
-
-
